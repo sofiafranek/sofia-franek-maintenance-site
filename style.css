@@ -3,11 +3,6 @@
   src: url(Futura\Book.ttf);
 }
 
-@font-face {
-  font-family: 'Futura Thin';
-  src: url(Futura\Thin.ttf);
-}
-
 body {
   background-color: #121212;
   color: white;
