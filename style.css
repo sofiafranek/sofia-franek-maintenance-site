@@ -32,6 +32,10 @@ h2 {
 h3 {
   font-size: 1em;
   font-weight: 100;
+}
+
+small {
+  font-size: 0.9em;
   margin-bottom: 30px;
 }
 
